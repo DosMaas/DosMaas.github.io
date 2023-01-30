@@ -15,12 +15,22 @@ body {
 }
 
 .bio {
-  font-size: 12px;
+  font-size: 14px;
   font-family: Arial,  Helvetica, sans-serif;
 }
 
+.phone {
+  margin-bottom: 1px;
+}
+
+.address {
+  margin-top: 1px;
+}
+
 .statement {
-  font-size: 14px;
+  font-size: 13px;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 h1{
@@ -33,12 +43,19 @@ h1{
   width:200px;
   float: Right
 }
+
 .picture{
   width:200px
 }
 
-.left {
-  float: 
+h4, h5, h6 {
+  margin-bottom: 1px;
 }
+
+h5, h6 {
+  margin-top: 1px;
+}
+
+
 
 
