@@ -3,15 +3,17 @@ body {
   color: black;
     font-family: Arial, Hevetica, sans-serif;
   margin: 10% 10%;
-  max-width: 600px;
+  max-width: 800px;
 }
 
 .exp-header {
   text-align: center;
   text-transform: uppercase;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
   font-family: Arial, Helvetica, sans-serif;
+  margin-top: 3px;
+  margin-bottom: px; 
 }
 
 .bio {
@@ -34,27 +36,40 @@ body {
 }
 
 h1{
-  background-color: rgba(0,0,0,0.1)
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd; 
-}
 
-.picture-container {
-  width:200px;
-  float: Right
+  border-bottom: 1px solid grey; 
 }
 
 .picture{
-  width:200px
+  width:180px
 }
 
 h4, h5, h6 {
   margin-bottom: 1px;
+  margin-right: 50px;
 }
 
 h5, h6 {
   margin-top: 1px;
 }
+
+aside {
+  float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
