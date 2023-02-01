@@ -1,7 +1,8 @@
 body {
-  background-image: linear-gradient(white, pink, white);
+  background-image: url("https://st2.depositphotos.com/3074113/5265/i/600/depositphotos_52650953-stock-photo-grunge-background.jpg");
+  background-size: 3000px;
   color: black;
-    font-family: Arial, Hevetica, sans-serif;
+  font-family: Arial, Hevetica, sans-serif;
   margin: auto;
   max-width: 800px;
   margin-top: 75px;
